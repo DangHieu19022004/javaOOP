@@ -1,0 +1,1 @@
+insert into tbCanbo values(1, N'hieu', N'nam', N'Diachi', 12345);
